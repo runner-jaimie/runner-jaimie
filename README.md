@@ -1,5 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jaimie%20Github%20!%20&fontSize=90)
 <h1 align="center">Hi 👋, there awesome folks!</h1>
-<h3 align="center">I'm a passionate developer hailing from the beautiful land of Canada 🌍,I believe in the power of technology and its ability to drive positive change.✨🌟</h3>
+<h3 align="center">I'm a passionate developer hailing from the beautiful land of Canada 🌍<br>
+I believe in the power of technology and its ability to drive positive change.✨🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=runner-jaimie&label=Profile%20views&color=0e75b6&style=flat" alt="runner-jaimie" /> </p>
 
