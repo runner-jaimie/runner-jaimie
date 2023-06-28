@@ -4,9 +4,7 @@
 I believe in the power of technology and its ability to drive positive change.✨🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=runner-jaimie&label=Profile%20views&color=0e75b6&style=flat" alt="runner-jaimie" /> </p>
-<a href="https://linkedin.com/in/imjm" target="_blank">
-  <img align="left" alt="Jaimie's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
 - 🌱 I’m currently learning **React, Node.js,**
 
 - 📫 How to reach me **jlee723@myseneca.ca**
