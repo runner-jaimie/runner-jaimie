@@ -1,12 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jaimie%20Github%20!%20&fontSize=90)
-<h1 align="left">Hi 👋, there awesome folks!</h1>
-<h3 align="left">I'm a passionate developer hailing from the beautiful land of Canada 🌍<br>
-I believe in the power of technology and its ability to drive positive change.✨🌟</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=runner-jaimie%20Github%20!%20&fontSize=70)
+<h1 align="left">👋 Hey there, awesome folks!</h1>
+<h3 align="left">I'm a passionate developer hailing from the beautiful land🌍 of Canada.<br>
+I believe in the power of technology and its ability to drive positive change.✨🌟<br>
+Let's innovate, collaborate, and create amazing projects together.<br> 
+Embracing technology to drive positive change and make tomorrow brighter than yesterday!🚀
+</h3>
 
+### Get in touch
+[![linkedinbtn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imjm/)<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=runner-jaimie&label=Profile%20views&color=0e75b6&style=flat" alt="runner-jaimie" /> </p>
 
-- 🌱 I’m currently learning **React, Node.js,**
-
+- 🌱 I’m currently learning **React**
 - 📫 How to reach me **jlee723@myseneca.ca**
 
 <h3 align="left">languages and tools</h3>
@@ -39,7 +43,8 @@ I believe in the power of technology and its ability to drive positive change.�
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
+  </a>
+  <br>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a> 
@@ -60,7 +65,9 @@ I believe in the power of technology and its ability to drive positive change.�
   </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-  </a> 
+  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </p>
 
 <br />
