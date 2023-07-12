@@ -73,8 +73,8 @@ Embracing technology to drive positive change and make tomorrow brighter than ye
 <br />
 <h3 align="left">📈 my github stats</h3>
 <br />
-
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=runner-jaimie&show_icons=true&theme=gotham&locale=en" alt="runner-jaimie" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runner-jaimie&langs_count=10&layout=compact&theme=tokyonight&hide_border=true" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=runner-jaimie&theme=gotham" alt="runner-jaimie" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runner-jaimie&langs_count=10&layout=compact&theme=tokyonight&hide_border=true" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=runner-jaimie&&include_all_commits=false&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=runner-jaimie&theme=gotham" alt="runner-jaimie" /></p>
 
