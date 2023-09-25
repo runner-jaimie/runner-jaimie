@@ -10,7 +10,7 @@ Embracing technology to drive positive change and make tomorrow brighter than ye
 [![linkedinbtn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imjm/)<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=runner-jaimie&label=Profile%20views&color=0e75b6&style=flat" alt="runner-jaimie" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java, Python and React**
 - 📫 How to reach me **jlee723@myseneca.ca**
 
 <h3 align="left">languages and tools</h3>
